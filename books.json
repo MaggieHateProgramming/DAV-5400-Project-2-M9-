@@ -1,0 +1,21 @@
+{
+    "books": [{
+        "Title": "Harry Potte",
+        "Authors": "J. K. Rowling",
+        "Theme": "Magic,Initiation",
+        "Publication Year": "1997",
+        "Price": "10$"
+    }, {
+        "Title": "And Then There Were None",
+        "Authors": "Agatha Christie",
+        "Theme": "Crime,Drama,Mystery",
+        "Publication Year": "1939",
+        "Price": "9$"
+    },{
+        "Title": "Option B",
+        "Authors": "Sheryl Sandberg,Adam Grant",
+        "Theme": "Family,Adversity",
+        "Publication Year": "2017",
+        "Price": "12$"
+    }]
+}
